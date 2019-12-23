@@ -6,3 +6,4 @@ https://www.tutsmake.com/Demos/php/instamojo/index.php
 
 #step by step guide to integrate instamojo in php
 
+https://www.tutsmake.com/php-integrate-instamojo-payment-gateway/
